@@ -1,4 +1,4 @@
-baseurl: “/” #TODO 博客链接
+baseurl:  #TODO 博客链接
 languageCode: zh-Hans
 #theme: hugo-theme-stack
 theme: hugo-theme-stack-3.17.0
