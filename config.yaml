@@ -37,7 +37,7 @@ params:
     favicon: /img/favicon.ico
 
     footer:
-        since: 2018 #TODO 这里是建站时间
+        since: 2019 #TODO 这里是建站时间
         customText:
 
     dateFormat:
